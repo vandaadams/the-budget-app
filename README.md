@@ -1,1 +1,3 @@
-# the-budget-app
+# Budget Calculator
+
+https://vandaadams.github.io/the-budget-app/
